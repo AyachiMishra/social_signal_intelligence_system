@@ -1,4 +1,4 @@
-# Adan SSIS – AI Multi-Modal Social Signal Intelligence System
+# Adan – AI Multi-Modal Social Signal Intelligence System
 
 ## Project Overview
 

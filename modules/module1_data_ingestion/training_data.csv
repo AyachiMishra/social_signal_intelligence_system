@@ -1,0 +1,81 @@
+Number,Signals,Type
+1,"why does my brain remember song lyrics from 2009 but not where I kept my charger lol",Gibberish
+2,"just watched a football highlight from 2014 and somehow it still feels live?? time is weird",Gibberish
+3,"anyone else open maps just to zoom into random countries for no reason at 2am",Gibberish
+4,"the guitar riff in that indie track hits harder when it rains outside idk why",Gibberish
+5,"tried cooking pasta while watching a thriller and almost burned both the plot and the pan",Gibberish
+6,"how do penguins even decide directions like is there a leader penguin or vibes only",Gibberish
+7,"my playlist went from classical to trap in 3 songs and honestly it worked",Gibberish
+8,"saw a cricket meme that made zero sense but I laughed for 5 minutes straight",Gibberish
+9,"documentaries about space make me feel tiny but also hungry somehow",Gibberish
+10,"the crowd noise in old basketball games sounds like popcorn popping endlessly",Gibberish
+11,"why do movie trailers reveal half the movie but I still go watch it anyway",Gibberish
+12,"randomly learning capital cities and now I can't stop saying Ulaanbaatar out loud",Gibberish
+13,"headphones on with no music just to avoid conversations is a lifestyle choice",Gibberish
+14,"watched a travel vlog and now I want to visit a mountain I can't even pronounce",Gibberish
+15,"there's always that one song that makes you feel like the main character walking nowhere",Gibberish
+16,"how are esports commentators louder than actual stadium announcers",Gibberish
+17,"opened a history article and ended up reading about medieval bread taxes for 40 minutes",Gibberish
+18,"every gym playlist eventually turns into 2010 party music and nobody complains",Gibberish
+19,"looked up weather for today and accidentally learned three new cloud types",Gibberish
+20,"sometimes I google random rivers and then forget why I opened the browser",Gibberish
+21,"checked my bank app three times even though I know my salary hasn't magically increased",Neutral
+22,"why does seeing a refund notification feel better than earning the same amount normally",Neutral
+23,"spent 20 minutes budgeting and then ordered food anyway like the spreadsheet didn't exist",Neutral
+24,"stock market goes up 1% and suddenly I'm a financial expert in my head",Neutral
+25,"anyone else calculate discounts in their head and still double-check with a calculator",Neutral
+26,"I love how saving money feels powerful until a flash sale appears out of nowhere",Neutral
+27,"opened my expense tracker and immediately closed it for emotional safety",Neutral
+28,"watching crypto charts at 2am like they're heartbeat monitors is not healthy I think",Neutral
+29,"why do subscription renewals always surprise me even though they're monthly",Neutral
+30,"told myself I'd invest long term but panic when the line turns slightly red",Neutral
+31,"there's a strange thrill in moving money between accounts like it's a strategy game",Neutral
+32,"I read one article about mutual funds and now ads follow me everywhere",Neutral
+33,"budgeting apps give me reminders like a disappointed parent",Neutral
+34,"seeing compound interest graphs makes me want to time travel and start earlier",Neutral
+35,"I celebrate small savings like I just won a lottery ticket",Neutral
+36,"every financial decision feels wise until I see a better option five minutes later",Neutral
+37,"checking exchange rates before buying anything online has become a reflex",Neutral
+38,"credit card reward points feel like free money even though I paid for it already",Neutral
+39,"I make a strict monthly plan and then life adds 'unexpected expenses' as a feature",Neutral
+40,"why does transferring money to savings feel like losing it temporarily",Neutral
+41,"{bank_name} keeps declining perfectly valid transactions and never explains why",Negative
+42,"I can never find basic features in the {bank_name} app because the layout keeps changing",Negative
+43,"{bank_name} support tickets seem to disappear into a void with no follow-up",Negative
+44,"The ATM network for {bank_name} is unreliable and often out of service when I need it",Negative
+45,"{bank_name} charges random small fees that are hard to track or justify",Negative
+46,"I updated my information on {bank_name} and it still shows the old data weeks later",Negative
+47,"{bank_name} notifications are inconsistent, sometimes I get them hours late or not at all",Negative
+48,"The {bank_name} website logs me out repeatedly even while I'm active",Negative
+49,"{bank_name} customer care gives different answers every time I call",Negative
+50,"It feels like {bank_name} prioritizes promotions over fixing real technical issues",Negative
+51,"My card from {bank_name} stopped working abroad without any prior warning",Negative
+52,"{bank_name} statements are confusing and not clearly formatted",Negative
+53,"I tried closing a minor issue with {bank_name} and it turned into a long process",Negative
+54,"Payment of $850 failed without any proper notification and support could not clarify the issue.",Negative
+55,"{bank_name} rarely communicates planned maintenance, leaving users guessing",Negative
+56,"Transaction of $1,200 got rejected for unknown reason and customer support gave no clear explanation.",Negative
+57,"{bank_name} delayed a refund and I had to chase them multiple times",Negative
+58,"The search function in {bank_name} app barely works when looking for old transactions",Negative
+59,"{bank_name} branch staff redirected me back to online support instead of helping",Negative
+60,"Overall, dealing with {bank_name} feels more complicated than it should ever be",Negative
+61,"{bank_name} app is smooth and rarely gives me any trouble during daily use",Positive
+62,"I always get quick and helpful responses from {bank_name} customer support",Positive
+63,"{bank_name} makes transferring money feel simple and fast every time",Positive
+64,"The interface of {bank_name} website is clean and easy to understand",Positive
+65,"{bank_name} notifications arrive instantly and help me track my spending well",Positive
+66,"I appreciate how {bank_name} processes transactions without unnecessary delays",Positive
+67,"{bank_name} support agents are polite and actually listen to my concerns",Positive
+68,"My balance updates quickly on {bank_name}, which helps with budgeting",Positive
+69,"{bank_name} app rarely crashes and feels very stable overall",Positive
+70,"I like how {bank_name} keeps adding useful features through regular updates",Positive
+71,"{bank_name} statements are clearly formatted and easy to read",Positive
+72,"I've never had issues using {bank_name} services while traveling abroad",Positive
+73,"{bank_name} customer care resolves even small issues efficiently",Positive
+74,"The login process on {bank_name} is secure yet quick, which I appreciate",Positive
+75,"{bank_name} makes bill payments and transfers very straightforward",Positive
+76,"I find {bank_name}'s document upload process surprisingly simple",Positive
+77,"{bank_name} communicates maintenance schedules clearly in advance",Positive
+78,"The mobile app of {bank_name} is responsive and user-friendly",Positive
+79,"I rarely experience delays when using {bank_name} for online banking tasks",Positive
+80,"Overall, {bank_name} provides a reliable and stress-free banking experience",Positive

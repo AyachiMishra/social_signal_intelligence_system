@@ -1,0 +1,15 @@
+[
+    {
+        "synthetic_id": "3d347087-9cbc-44e1-bd0a-71a6ac5266b6",
+        "timestamp": "2026-02-01T07:32:38.435286Z",
+        "raw_text": "Received a notification for a fee I wasn't aware of, and the support team was of no help at all.",
+        "source_type": "public_forum",
+        "category": "None",
+        "generation_sequence": 3,
+        "pii_scrubbed_count": 0,
+        "scenario_category": "Negative",
+        "sentiment_score": -37,
+        "shadow_review_urgency": "Standard",
+        "is_flagged_for_review": true
+    }
+]

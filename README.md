@@ -13,19 +13,19 @@
 
 ## Key Capabilities
 
-- ✅ **PR Agent** — Automated public response drafting with human review
-- ✅ **Advanced Analytics Dashboard** — Real-time signal visualization and trend analysis
-- ✅ **Risk Detection Management** — Critical/High/Medium/Low urgency classification
-- ✅ **Synthetic Data Generation** — Simulates social signals every 10 seconds for testing
-- ✅ **Modern UI** — Clean, professional interface with live updates
-- ✅ **Signal Summarization** — AI-powered impact assessment and reasoning logs
-- ✅ **Explanation Engine** — Transparent reasoning for Critical/Moderate/Average classifications
-- ✅ **Team Channelization** — Routes signals to relevant departments (IT Ops, Fraud, Comms)
-- ✅ **HITL Approval Workflow** — Approve/Decline actions with full audit logging
-- ✅ **No PII Storage** — Privacy-compliant architecture
-- ✅ **Confidence Score Classification** — Ambiguity detection and uncertainty quantification
-- ✅ **Executive Briefing Export** — PDF generation for leadership reporting
-- ✅ **Audit Trail** — Immutable governance logs for compliance
+-  **PR Agent** — Automated public response drafting with human review
+-  **Advanced Analytics Dashboard** — Real-time signal visualization and trend analysis
+-  **Risk Detection Management** — Critical/High/Medium/Low urgency classification
+-  **Synthetic Data Generation** — Simulates social signals every 10 seconds for testing
+-  **Modern UI** — Clean, professional interface with live updates
+-  **Signal Summarization** — AI-powered impact assessment and reasoning logs
+-  **Explanation Engine** — Transparent reasoning for Critical/Moderate/Average classifications
+-  **Team Channelization** — Routes signals to relevant departments (IT Ops, Fraud, Comms)
+-  **HITL Approval Workflow** — Approve/Decline actions with full audit logging
+-  **No PII Storage** — Privacy-compliant architecture
+-  **Confidence Score Classification** — Ambiguity detection and uncertainty quantification
+-  **Executive Briefing Export** — PDF generation for leadership reporting
+-  **Audit Trail** — Immutable governance logs for compliance
 
 ---
 

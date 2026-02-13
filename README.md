@@ -1,5 +1,4 @@
-# Adan – AI Multi-Modal Social Signal Intelligence System
-
+# Adan – AI Multi-Modal Social Signal Intelligence System for Mashreq Bank
 ## Project Overview
 
 - **Enterprise-grade AI system** for real-time social signal intelligence and risk detection
